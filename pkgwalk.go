@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/visualfc/gotools/pkg/pkgutil"
-	"github.com/visualfc/gotools/pkg/stdlib"
+	"github.com/visualfc/pkgwalk/pkgutil"
+	"github.com/visualfc/pkgwalk/stdlib"
 )
 
 var (
